@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: tax-module
+
+tax:
+  info:
+    csv:
+      path: test-data/tax-info.csv
